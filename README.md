@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasunib&label=Profile%20views&color=0e75b6&style=flat" alt="kasunib" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mose_ic" target="blank"><img src="https://img.shields.io/twitter/follow/mose_ic?logo=twitter&style=for-the-badge" alt="mose_ic" /></a> </p>
+
 
 - 🌱 I’m currently learning **Python**
 
